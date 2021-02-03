@@ -142,7 +142,7 @@
     <comment>Install message and also the welcome message when the app installer is not known - {0} is the placeholder for the name of the team that the app has been installed to</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart2" xml:space="preserve">
-    <value>Aqui puedo ayudarte a conocer más personas en tu organización al emparejarte al azar con alguien nuevo cada semana.Puedes hacer amigos y aprender sobre las personas con las que trabajas, generar networking y hasta distenderte un rato a través de una conversación con alguien. </value>
+    <value>Puedo ayudarte a conocer más personas en tu organización al emparejarte al azar con alguien nuevo cada semana. Puedes hacer amigos y aprender sobre las personas con las que trabajas, generar networking y hasta distenderte un rato a través de una conversación con alguien. </value>
     <comment>Part 2 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart3" xml:space="preserve">
@@ -198,7 +198,7 @@
     <comment>This is the text for the salutation in the adaptive cards when the bot is installed to a team and also when new users are added to the team</comment>
   </data>
   <data name="TakeATourButtonText" xml:space="preserve">
-    <value>Conoce más</value>
+    <value>Conoce mas</value>
     <comment>The text for the button which launches a tour when clicked</comment>
   </data>
   <data name="UnrecognizedInput" xml:space="preserve">
@@ -206,7 +206,7 @@
     <comment>The text for the unrecognized input scenario</comment>
   </data>
   <data name="WelcomeTourTitle" xml:space="preserve">
-    <value>Conoce más</value>
+    <value>Tour</value>
     <comment>This is the title of the tour for the Icebreaker Bot</comment>
   </data>
 </root>
